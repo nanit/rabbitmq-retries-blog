@@ -3,7 +3,9 @@
 If you haven't read the blog post, please do so [here](link)
 
 This repo contains 4 different topologies to implement retries on RabbitMQ
+
 The only thing you need to be able to run the examples is [docker-compose](https://docs.docker.com/compose/install/)
+
 To run each of the tasks:
 
 1. Clone this repo: `git@github.com:nanit/rabbitmq-retries-blog.git`
