@@ -1,0 +1,13 @@
+version: "3"
+services:
+
+  rabbitmq:
+    build:
+      context: ./rabbitmq
+  app:
+    build:
+      context: ./app
+    depends_on:
+      - rabbitmq
+    command: ["rabbitmq${OPTION}.rb"]
+
