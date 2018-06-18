@@ -1,6 +1,6 @@
 # RabbitMQ Retries Topologies
 
-If you haven't read the blog post, please do so [here](link)
+If you haven't read the blog post, please do so [here](https://engineering.nanit.com/rabbitmq-retries-the-full-story-ca4cc6c5b493)
 
 This repo contains 4 different topologies to implement retries on RabbitMQ
 
