@@ -1,4 +1,4 @@
-FROM rabbitmq:management-alpine
+FROM rabbitmq:3.7-management-alpine
 
 RUN apk add --update jq curl bash
 
